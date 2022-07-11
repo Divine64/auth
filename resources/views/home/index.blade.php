@@ -17,10 +17,10 @@
         <h1>Balance:</h1>
         <p class="lead">$2000</p>
         <h1>Update:</h1>
-        <p>Withdrawal Form Would be available here on the stated date.</p>
+        <p><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScWS3rlVzqiyUuC9lYTLdAY1IA_ZIosUyHUCdKnCZH4j0wIeQ/viewform?embedded=true" width="640" height="1198" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></p>
         <h1>Time:</h1>
-        <p class="lead">10:49pm - 12:30am, GMT, West Africa.</p>
-        <p>Wednesday 6th July, 2022.</p>
+        <p class="lead">10:00pm - 10:30pm, GMT, West Africa.</p>
+        <p>Monday 11th July, 2022.</p>
         @endauth
 
         @guest
